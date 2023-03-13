@@ -1,6 +1,7 @@
 # Receipt Search app built with Vue.js
 
 ## Demo
+[https://tiny-faun-ba5a3f.netlify.app/](https://tiny-faun-ba5a3f.netlify.app/)
 
 ## Installation
 1. Clone the repository
